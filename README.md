@@ -21,12 +21,11 @@ An android custom facebook button.
 3. Customize your button.
  ```xml
 <Button
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:layout_marginTop="8dp"
-    android:background="@drawable/button_facebook_login"
-    android:text="Facebook Login Button"
-    android:textAllCaps="false"/>
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/button_facebook_login"
+    android:text="Facebook Login Button"
+    android:textAllCaps="false"/>
 ```
 
 ## Compatibility
