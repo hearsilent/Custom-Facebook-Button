@@ -3,7 +3,7 @@
 An android custom facebook button.
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/hearsilent/AmazingAvatar/master/screenshots/device-2017-03-13-115743.png" height="500">
+<img src="https://raw.githubusercontent.com/hearsilent/Custom-Facebook-Button/master/screenshots/device-2017-03-13-115743.png" height="500">
 
 ## Usage
 
